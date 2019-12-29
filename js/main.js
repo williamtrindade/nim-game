@@ -4,12 +4,11 @@ let checkeds = 0;
 let playerOne = {
 	'name': 'Player One',
 	'backgound': 'white',
-	''
 }
 
 let playerTwo = {
 	'name': 'Player Two',
-	'backgounrd': 'white'
+	'backgounrd': 'white',
 }
 
 function generateStones(stonesCounter) {
